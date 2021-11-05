@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site":"archaos-workshops-main",
     "public": "build",
     "ignore": [
       "firebase.json",
